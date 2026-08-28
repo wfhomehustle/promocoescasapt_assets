@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wfhomehustle.github.io/promocoescasapt_assets/sitemap.xml
