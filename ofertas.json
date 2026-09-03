@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B07TRV5RM4",
+    "titulo": "Contigo Westloop, Vaso Unisex Adulto, Cinza (aço inoxidável), Pacote de 1 Unidade",
+    "preco": "19,00 €",
+    "preco_anterior": "24,99 €",
+    "desconto": 24,
+    "categoria": "Outros",
+    "link": "https://www.amazon.es/dp/B07TRV5RM4?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B07TRV5RM4_quadrada.jpg",
+    "publicado_em": "2026-09-03T17:11:24.900830+00:00"
+  },
+  {
     "asin": "B0DM8Y69MY",
     "titulo": "Fonte para gatos sem cabo: Bebedor gatos sem fios - fonte de gato 3,2 L com sensor de movimento - dispensador automático água gato com bateria 4000 mAh recarregável - bandeja de bebida inoxidável",
     "preco": "30,95 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B00F8D2W5A?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B00F8D2W5A_quadrada.jpg",
     "publicado_em": "2026-08-29T02:06:23.344017+00:00"
-  },
-  {
-    "asin": "B0FF54FJ7Q",
-    "titulo": "Pepe Jeans Aris Colorful Mochila para meninas",
-    "preco": "36,58 €",
-    "preco_anterior": "45,74 €",
-    "desconto": 20,
-    "categoria": "Casa",
-    "link": "https://www.amazon.es/dp/B0FF54FJ7Q?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0FF54FJ7Q_quadrada.jpg",
-    "publicado_em": "2026-08-29T00:55:36.705424+00:00"
   }
 ]
