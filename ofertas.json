@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0CKLWQ3JJ",
+    "titulo": "Unissexo Kids VL Court 3.0 Nuvem branco/Core Black/Grey One 5 UK 38 EU",
+    "preco": "26,95 €",
+    "preco_anterior": "50,00 €",
+    "desconto": 46,
+    "categoria": "Moda",
+    "link": "https://www.amazon.es/dp/B0CKLWQ3JJ?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0CKLWQ3JJ_quadrada.jpg",
+    "publicado_em": "2026-09-06T19:24:45.468658+00:00"
+  },
+  {
     "asin": "B0CYQ732PT",
     "titulo": "Homem Urban Court Shoes, Core Black/Carbono/Core Black, 43 1/3 UE",
     "preco": "27,99 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B09JSKKMFV?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B09JSKKMFV_quadrada.jpg",
     "publicado_em": "2026-09-02T10:38:40.324471+00:00"
-  },
-  {
-    "asin": "B0FB43WPJC",
-    "titulo": "MSI mag A850GLS PCIE5, fonte de alimentação, 850W, 80 Plus Gold, ATX 3.1, compatível com GPU PCIe 5.1, 12 V-2 x 6 nativos, conector 12 V-2 x 6 de duas cores, fonte de alimentação ATX",
-    "preco": "94,99 €",
-    "preco_anterior": "144,99 €",
-    "desconto": 34,
-    "categoria": "Outros",
-    "link": "https://www.amazon.es/dp/B0FB43WPJC?tag=wfhomehustle-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0FB43WPJC_quadrada.jpg",
-    "publicado_em": "2026-09-02T09:34:55.916835+00:00"
   }
 ]
