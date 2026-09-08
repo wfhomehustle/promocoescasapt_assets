@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B00HQ51KX8",
+    "titulo": "Brennenstuhl Extensão de tomadas premium com 10 tomadas de energia (cabo de 3 m, com interruptor, fabricado na Alemanha) preto",
+    "preco": "15,98 €",
+    "preco_anterior": "31,99 €",
+    "desconto": 50,
+    "categoria": "Outros",
+    "link": "https://www.amazon.es/dp/B00HQ51KX8?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B00HQ51KX8_quadrada.jpg",
+    "publicado_em": "2026-09-08T07:20:42.301320+00:00"
+  },
+  {
     "asin": "B00KHFOBPS",
     "titulo": "WMF Favorit - Frigideira profissional 20 cm sem revestimento, frigideira de aço inoxidável adequada indução, aço inoxidável Cromargan, adequada para forno",
     "preco": "26,19 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B08MVTXPDQ?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B08MVTXPDQ_quadrada.jpg",
     "publicado_em": "2026-09-03T14:44:17.302195+00:00"
-  },
-  {
-    "asin": "B0DTJ5T9G4",
-    "titulo": "Condroprotetor para cães, 150 unidades, 100% natural, articulações e cartilagens, antiartrose com glucosamina, condroitina, MSM, ácido hialurónico, colagénio, ómega 3 e 6, vitaminas C e E",
-    "preco": "21,99 €",
-    "preco_anterior": "29,99 €",
-    "desconto": 27,
-    "categoria": "Suplementos",
-    "link": "https://www.amazon.es/dp/B0DTJ5T9G4?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0DTJ5T9G4_quadrada.jpg",
-    "publicado_em": "2026-09-03T14:39:51.088196+00:00"
   }
 ]
