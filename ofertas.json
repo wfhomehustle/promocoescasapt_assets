@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B000O6MFQC",
+    "titulo": "Bebeconfort Manga i-Safe, assento elevador de carro, 6-12 anos, 128-150 cm; cadeira de carro, compacto e leve (<1 kg), fácil instalação com cinto, acolchoado, tecidos macios, tingido preto",
+    "preco": "17,99 €",
+    "preco_anterior": "29,99 €",
+    "desconto": 40,
+    "categoria": "Bebé",
+    "link": "https://www.amazon.es/dp/B000O6MFQC?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B000O6MFQC_quadrada.jpg",
+    "publicado_em": "2026-09-09T16:12:02.041544+00:00"
+  },
+  {
     "asin": "B07CGPZ3ZQ",
     "titulo": "Logitech G305 LIGHTSPEED Rato Gaming sem fios, Sensor HERO 12K, 12.000 DPI, ultra-leve, bateria de 250 h, 6 botões programáveis, memória integrada, PC/Mac - preto",
     "preco": "34,99 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0GCMZ1YP9?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0GCMZ1YP9_quadrada.jpg",
     "publicado_em": "2026-09-05T07:17:11.917236+00:00"
-  },
-  {
-    "asin": "B0D845J72W",
-    "titulo": "DANISH ENDURANCE Meias casuais de bambu, conjunto 6 cinzento 43-47",
-    "preco": "22,95 €",
-    "preco_anterior": "43,95 €",
-    "desconto": 48,
-    "categoria": "Moda",
-    "link": "https://www.amazon.es/dp/B0D845J72W?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0D845J72W_quadrada.jpg",
-    "publicado_em": "2026-09-05T07:15:10.681711+00:00"
   }
 ]
