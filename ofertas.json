@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B076TGHZ6R",
+    "titulo": "Skechers Summits, Sapatilhas de mulher, 38 UE",
+    "preco": "37,95 €",
+    "preco_anterior": "69,95 €",
+    "desconto": 46,
+    "categoria": "Moda",
+    "link": "https://www.amazon.es/dp/B076TGHZ6R?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B076TGHZ6R_quadrada.jpg",
+    "publicado_em": "2026-09-09T19:23:27.075159+00:00"
+  },
+  {
     "asin": "B0D54S36L2",
     "titulo": "Levi'S 511 Slim Fit Black Stone - 511 Slim Fit Stretch - descontinuado homem, 34 W/32 L",
     "preco": "55,68 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0FB8KSJX1?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0FB8KSJX1_quadrada.jpg",
     "publicado_em": "2026-09-06T07:09:00.048527+00:00"
-  },
-  {
-    "asin": "B0BY91FWN8",
-    "titulo": "SONGMICS Estendal de roupa, estendal de metal, dobrável, economiza espaço, uso interno e externo, para roupa de cama, com 2 asas, preto LLR540B01",
-    "preco": "19,99 €",
-    "preco_anterior": "26,99 €",
-    "desconto": 26,
-    "categoria": "Casa",
-    "link": "https://www.amazon.es/dp/B0BY91FWN8?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0BY91FWN8_quadrada.jpg",
-    "publicado_em": "2026-09-05T13:16:37.492170+00:00"
   }
 ]
