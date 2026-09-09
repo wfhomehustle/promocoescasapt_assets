@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0D54S36L2",
+    "titulo": "Levi'S 511 Slim Fit Black Stone - 511 Slim Fit Stretch - descontinuado homem, 34 W/32 L",
+    "preco": "55,68 €",
+    "preco_anterior": "120,00 €",
+    "desconto": 54,
+    "categoria": "Moda",
+    "link": "https://www.amazon.es/dp/B0D54S36L2?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0D54S36L2_quadrada.jpg",
+    "publicado_em": "2026-09-09T19:18:40.434480+00:00"
+  },
+  {
     "asin": "B08P4YPB8Q",
     "titulo": "Maybelline New York, Máscara de pestanas Volumem e Comprimento, Lash Sensational Sky High, Preto (Negro), 7,2 ml",
     "preco": "7,66 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0BY91FWN8?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0BY91FWN8_quadrada.jpg",
     "publicado_em": "2026-09-05T13:16:37.492170+00:00"
-  },
-  {
-    "asin": "B0DLQ8248X",
-    "titulo": "Columbia RedmondTM IV Mid Waterproof Botas de Caminhada e Montanhismo Impermeáveis para Homem, 41 UE",
-    "preco": "56,41 €",
-    "preco_anterior": "100,00 €",
-    "desconto": 44,
-    "categoria": "Moda",
-    "link": "https://www.amazon.es/dp/B0DLQ8248X?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0DLQ8248X_quadrada.jpg",
-    "publicado_em": "2026-09-05T10:30:18.466183+00:00"
   }
 ]
