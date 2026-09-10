@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0CZS3K762",
+    "titulo": "Adidas Unissexo - Adulto Essentials Linear Duffel Bag, Preto/Preto/Branco, XS",
+    "preco": "15,99 €",
+    "preco_anterior": "25,00 €",
+    "desconto": 36,
+    "categoria": "Desporto",
+    "link": "https://www.amazon.es/dp/B0CZS3K762?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0CZS3K762_quadrada.jpg",
+    "publicado_em": "2026-09-10T10:27:57.062064+00:00"
+  },
+  {
     "asin": "B00CXQ9GQ8",
     "titulo": "DeLSJFS DLS C002 Filtro de água de fluxo direto branco, 950 g, 73 x 38 x 165 mm)",
     "preco": "8,12 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0FKT6RFLB?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0FKT6RFLB_quadrada.jpg",
     "publicado_em": "2026-09-07T07:18:11.465831+00:00"
-  },
-  {
-    "asin": "B085H27RHY",
-    "titulo": "SP Berner - Mesa Auxiliar Alaska - Leve, Empilhável e Resistente - Uso Exterior - Com Gaveta de Arrumação - Fabricada em Espanha com Plástico Reciclado - 58 x 48 x 30 cm - Branca",
-    "preco": "9,95 €",
-    "preco_anterior": "23,99 €",
-    "desconto": 59,
-    "categoria": "Casa",
-    "link": "https://www.amazon.es/dp/B085H27RHY?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B085H27RHY_quadrada.jpg",
-    "publicado_em": "2026-09-07T07:15:56.890228+00:00"
   }
 ]
