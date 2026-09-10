@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B00G5YOVZA",
+    "titulo": "Nespresso De'Longhi Inissia EN80.B - Máquina de café monodose de cápsulas Nespresso, 19 bares, desliga automaticamente, cor preto",
+    "preco": "53,99 €",
+    "preco_anterior": "109,00 €",
+    "desconto": 50,
+    "categoria": "Eletrodomésticos",
+    "link": "https://www.amazon.es/dp/B00G5YOVZA?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B00G5YOVZA_quadrada.jpg",
+    "publicado_em": "2026-09-10T07:13:38.560846+00:00"
+  },
+  {
     "asin": "B07T1J953W",
     "titulo": "Skechers Sapatilhas 12615-BBK SENHORA Black, 38 UE",
     "preco": "36,95 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0741JVML1?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0741JVML1_quadrada.jpg",
     "publicado_em": "2026-09-06T10:26:23.664862+00:00"
-  },
-  {
-    "asin": "B0F5WJR3HQ",
-    "titulo": "Fefod Cotoveleiras Epicondilite, Faixa de Cotovelo Tenista com Almofada de Silicone 3D, Cotoveleiras para Tendinite Ajustável, Cotoveleiras de Golfista para Homem e Mulher para Alívio da Dor por",
-    "preco": "7,59 €",
-    "preco_anterior": "13,99 €",
-    "desconto": 46,
-    "categoria": "Casa",
-    "link": "https://www.amazon.es/dp/B0F5WJR3HQ?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0F5WJR3HQ_quadrada.jpg",
-    "publicado_em": "2026-09-06T10:17:26.900853+00:00"
   }
 ]
