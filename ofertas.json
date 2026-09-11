@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B00NGK3BQ6",
+    "titulo": "Drasanvi COLLMAR Colagénio Marinho Hidrolisado com Ácido Hialurónico, Vitamina C | Sem edulcorantes | Máx. assimilação 9.660 mg/dia | 275g de pó | Sabor Baunilha",
+    "preco": "13,49 €",
+    "preco_anterior": "18,69 €",
+    "desconto": 28,
+    "categoria": "Suplementos",
+    "link": "https://www.amazon.es/dp/B00NGK3BQ6?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B00NGK3BQ6_quadrada.jpg",
+    "publicado_em": "2026-09-11T10:17:18.530792+00:00"
+  },
+  {
     "asin": "B076T8JM98",
     "titulo": "Skechers Summits, Sapatilhas de mulher, 38 UE",
     "preco": "38,95 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B00KHFOBPS?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B00KHFOBPS_quadrada.jpg",
     "publicado_em": "2026-09-08T07:08:30.959905+00:00"
-  },
-  {
-    "asin": "B07NPFTFSS",
-    "titulo": "Skechers Um Stand On Air sapatilhas para homem, 43 UE",
-    "preco": "47,99 €",
-    "preco_anterior": "89,95 €",
-    "desconto": 47,
-    "categoria": "Moda",
-    "link": "https://www.amazon.es/dp/B07NPFTFSS?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B07NPFTFSS_quadrada.jpg",
-    "publicado_em": "2026-09-07T19:25:43.042681+00:00"
   }
 ]
