@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B076T8JM98",
+    "titulo": "Skechers Summits, Sapatilhas de mulher, 38 UE",
+    "preco": "38,95 €",
+    "preco_anterior": "69,95 €",
+    "desconto": 44,
+    "categoria": "Moda",
+    "link": "https://www.amazon.es/dp/B076T8JM98?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B076T8JM98_quadrada.jpg",
+    "publicado_em": "2026-09-11T07:15:28.035189+00:00"
+  },
+  {
     "asin": "B0095SMIP8",
     "titulo": "Vitakraft Magic Clean Classic, areia não aglomerante para gatos, fabricada com microesferas minerais, inibe bactérias, especialmente baixa em pó, tem uma duração de 4 semanas (1 x 4,2 l)",
     "preco": "4,69 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B07NPFTFSS?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B07NPFTFSS_quadrada.jpg",
     "publicado_em": "2026-09-07T19:25:43.042681+00:00"
-  },
-  {
-    "asin": "B0DL5FDKWX",
-    "titulo": "adidas Homem Run 70S 2.0 Sapatos",
-    "preco": "34,99 €",
-    "preco_anterior": "70,00 €",
-    "desconto": 50,
-    "categoria": "Moda",
-    "link": "https://www.amazon.es/dp/B0DL5FDKWX?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0DL5FDKWX_quadrada.jpg",
-    "publicado_em": "2026-09-07T19:22:07.216351+00:00"
   }
 ]
