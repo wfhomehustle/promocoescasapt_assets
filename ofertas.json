@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B08HLSL2FV",
+    "titulo": "Maybelline Nova Iorque, brilho labial Lifter Gloss, hidratação intensa e lábios recheados sem rettoques, fórmula com ácido hialurónico em tom 03 lua",
+    "preco": "5,94 €",
+    "preco_anterior": "9,96 €",
+    "desconto": 40,
+    "categoria": "Beleza",
+    "link": "https://www.amazon.es/dp/B08HLSL2FV?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B08HLSL2FV_quadrada.jpg",
+    "publicado_em": "2026-09-12T07:16:07.967391+00:00"
+  },
+  {
     "asin": "B07W864798",
     "titulo": "BaByliss Ferro de cabelo super smooth - tecnologia iónica anti-frizz, tapete térmico, placas de cerâmica para penteados ultrasuaves, aquecimento rápido, 6 configurações de 140 °C a 235 °C, ST393E",
     "preco": "35,90 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B07RWF5VJY?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B07RWF5VJY_quadrada.jpg",
     "publicado_em": "2026-09-09T07:17:01.320752+00:00"
-  },
-  {
-    "asin": "B07V2X8C7Q",
-    "titulo": "SZSHIMAO Adaptador de Válvula de Bicicleta (DV/AV/SV) Conjunto de Adaptador de Bomba de Bicicleta: Agulha para Bomba de Bola",
-    "preco": "5,14 €",
-    "preco_anterior": "8,99 €",
-    "desconto": 43,
-    "categoria": "Desporto",
-    "link": "https://www.amazon.es/dp/B07V2X8C7Q?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B07V2X8C7Q_quadrada.jpg",
-    "publicado_em": "2026-09-09T07:12:53.165951+00:00"
   }
 ]
