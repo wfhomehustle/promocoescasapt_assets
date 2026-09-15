@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B08285D74R",
+    "titulo": "Quiksilver Calções de banho para homem",
+    "preco": "18,99 €",
+    "preco_anterior": "29,99 €",
+    "desconto": 37,
+    "categoria": "Moda",
+    "link": "https://www.amazon.es/dp/B08285D74R?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B08285D74R_quadrada.jpg",
+    "publicado_em": "2026-09-15T19:34:07.128110+00:00"
+  },
+  {
     "asin": "B0B45PKBW8",
     "titulo": "SAGUARO Sapatilhas barefoot homem mulher Sapatilhas minimalistas calçado minimalistas sapatilhas de trail running barefoot shoes para zero drop sola, tamanho europeu 36-48, Rosa salmão",
     "preco": "27,35 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B09JQTC1SH?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B09JQTC1SH_quadrada.jpg",
     "publicado_em": "2026-09-13T10:24:00.398809+00:00"
-  },
-  {
-    "asin": "B0BMWW67VQ",
-    "titulo": "YISSVIC Raquete Mata-moscas Elétrica 2 em 1, 4000 V mata-mosquitos elétrico USB recarregável 1500 mAh",
-    "preco": "14,69 €",
-    "preco_anterior": "25,99 €",
-    "desconto": 43,
-    "categoria": "Outros",
-    "link": "https://www.amazon.es/dp/B0BMWW67VQ?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0BMWW67VQ_quadrada.jpg",
-    "publicado_em": "2026-09-13T10:19:45.790974+00:00"
   }
 ]
