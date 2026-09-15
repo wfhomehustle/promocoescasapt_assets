@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B09LCMVB3F",
+    "titulo": "Anker 333 Nylon cabo USB C carregamento rápido 100 W, PD 3.0 [1 m] preto, 3 pacotes",
+    "preco": "15,99 €",
+    "preco_anterior": "19,99 €",
+    "desconto": 20,
+    "categoria": "Eletrónica",
+    "link": "https://www.amazon.es/dp/B09LCMVB3F?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B09LCMVB3F_quadrada.jpg",
+    "publicado_em": "2026-09-15T16:29:59.467179+00:00"
+  },
+  {
     "asin": "B0DFQBTJY2",
     "titulo": "Beverly ISOLATE CFM – Proteína Aislada de Suero Premium (Whey Isolate) | 30 g Proteína | Baixa em Lactosa e Sem Açúcares Adicionados | 29 Serviços | Desenvolvimento Muscular (1 Kg, Chocolate Avellana)",
     "preco": "37,90 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B076TBMV36?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B076TBMV36_quadrada.jpg",
     "publicado_em": "2026-09-12T19:24:50.045118+00:00"
-  },
-  {
-    "asin": "B0D31Z3TKT",
-    "titulo": "Adidas - Sapatilhas homem para: Homem, 43 1/3 UE",
-    "preco": "34,99 €",
-    "preco_anterior": "65,00 €",
-    "desconto": 46,
-    "categoria": "Moda",
-    "link": "https://www.amazon.es/dp/B0D31Z3TKT?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0D31Z3TKT_quadrada.jpg",
-    "publicado_em": "2026-09-12T19:20:33.502187+00:00"
   }
 ]
