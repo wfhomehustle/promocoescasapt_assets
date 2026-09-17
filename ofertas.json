@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0CZ9HG3RJ",
+    "titulo": "adidas Men's T-shirt Squadra 25",
+    "preco": "16,39 €",
+    "preco_anterior": "23,00 €",
+    "desconto": 29,
+    "categoria": "Moda",
+    "link": "https://www.amazon.es/dp/B0CZ9HG3RJ?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0CZ9HG3RJ_quadrada.jpg",
+    "publicado_em": "2026-09-17T16:36:08.255594+00:00"
+  },
+  {
     "asin": "B0H832Z72S",
     "titulo": "Ferula descarga bruxismo, conjunto de 4 unidades 2 tamanhos, reutilizável e dotado de estojo para conservação",
     "preco": "8,14 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0CY2621ML?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0CY2621ML_quadrada.jpg",
     "publicado_em": "2026-09-15T16:19:54.295261+00:00"
-  },
-  {
-    "asin": "B0BZCV658S",
-    "titulo": "SONOFF SNZB-02D Zigbee LCD Sensor Inteligente de Temperatura e Umidade, Termômetro Higrômetro Digital para Interior, Compatível com Alexa/Google Home, Requer SONOFF ZigBee Hub (2PCS)",
-    "preco": "22,66 €",
-    "preco_anterior": "32,03 €",
-    "desconto": 29,
-    "categoria": "Outros",
-    "link": "https://www.amazon.es/dp/B0BZCV658S?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0BZCV658S_quadrada.jpg",
-    "publicado_em": "2026-09-15T13:44:00.817862+00:00"
   }
 ]
