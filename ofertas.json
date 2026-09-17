@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B097S8CNG8",
+    "titulo": "Pepsi zero sem cafeína refrigerante de cauda com zero açúcar e zero calorias, embalagens de 6 garrafas de 1,75 litros, 10,5 litros não total",
+    "preco": "6,00 €",
+    "preco_anterior": "10,14 €",
+    "desconto": 41,
+    "categoria": "Casa",
+    "link": "https://www.amazon.es/dp/B097S8CNG8?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B097S8CNG8_quadrada.jpg",
+    "publicado_em": "2026-09-17T13:26:13.891996+00:00"
+  },
+  {
     "asin": "B08VJ88S7Q",
     "titulo": "SAGUARO Sapatilhas de trilho para meninas calçado escalço para crianças sapatilhas de desporto fitness correr em asfalto respiráveis minimalistas Barefoot sapatos de caminhada antiderrapantes exterior rosa 29 UE",
     "preco": "27,35 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B09C25XTPF?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B09C25XTPF_quadrada.jpg",
     "publicado_em": "2026-09-15T10:39:49.763755+00:00"
-  },
-  {
-    "asin": "B0GQVCT783",
-    "titulo": "Suavinex, Doseador de leite em pó, cereais e lanches, bebês + 0 m, verde",
-    "preco": "5,39 €",
-    "preco_anterior": "8,25 €",
-    "desconto": 35,
-    "categoria": "Bebé",
-    "link": "https://www.amazon.es/dp/B0GQVCT783?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0GQVCT783_quadrada.jpg",
-    "publicado_em": "2026-09-15T10:27:45.787717+00:00"
   }
 ]
