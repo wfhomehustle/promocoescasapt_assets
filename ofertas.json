@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B08F7SQ34C",
+    "titulo": "Old Spice Deep Sea Gel de chuveiro e champanhe 3 em 1 para homem, 2 x 1 L",
+    "preco": "10,99 €",
+    "preco_anterior": "15,67 €",
+    "desconto": 30,
+    "categoria": "Beleza",
+    "link": "https://www.amazon.es/dp/B08F7SQ34C?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B08F7SQ34C_quadrada.jpg",
+    "publicado_em": "2026-09-17T13:13:45.404939+00:00"
+  },
+  {
     "asin": "B00U12ZR32",
     "titulo": "BIC Kids, Kid Couleur, marcadores laváveis para crianças, ideais para material escolar, ponta média resistente, cores brilhantes e intensas, caixa de 24 unidades",
     "preco": "4,29 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0DSFQV89R?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0DSFQV89R_quadrada.jpg",
     "publicado_em": "2026-09-15T10:19:42.738803+00:00"
-  },
-  {
-    "asin": "B08Z84MGM2",
-    "titulo": "OXFORD MANUALIDADES Bloco colado papéis sortidos A4 tampa branca 42 folhas",
-    "preco": "6,09 €",
-    "preco_anterior": "9,99 €",
-    "desconto": 39,
-    "categoria": "Casa",
-    "link": "https://www.amazon.es/dp/B08Z84MGM2?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B08Z84MGM2_quadrada.jpg",
-    "publicado_em": "2026-09-15T10:17:34.778554+00:00"
   }
 ]
