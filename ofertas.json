@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B00U12ZR32",
+    "titulo": "BIC Kids, Kid Couleur, marcadores laváveis para crianças, ideais para material escolar, ponta média resistente, cores brilhantes e intensas, caixa de 24 unidades",
+    "preco": "4,29 €",
+    "preco_anterior": "6,69 €",
+    "desconto": 36,
+    "categoria": "Escritório",
+    "link": "https://www.amazon.es/dp/B00U12ZR32?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B00U12ZR32_quadrada.jpg",
+    "publicado_em": "2026-09-17T10:40:05.301100+00:00"
+  },
+  {
     "asin": "B089GRH43R",
     "titulo": "Beurer BR 60 Dispositivo para o tratamento de mordidas e picadas de insetos, alivia a coceira e o inchaço sem produtos químicos, pequeno e gerenciável",
     "preco": "22,99 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B08Z84MGM2?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B08Z84MGM2_quadrada.jpg",
     "publicado_em": "2026-09-15T10:17:34.778554+00:00"
-  },
-  {
-    "asin": "B00R4HFV74",
-    "titulo": "Stabilo Swing Cool Favoritos de 8 cores",
-    "preco": "8,85 €",
-    "preco_anterior": "13,24 €",
-    "desconto": 33,
-    "categoria": "Escritório",
-    "link": "https://www.amazon.es/dp/B00R4HFV74?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B00R4HFV74_quadrada.jpg",
-    "publicado_em": "2026-09-15T07:23:47.914585+00:00"
   }
 ]
