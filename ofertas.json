@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0CKST2MGK",
+    "titulo": "Helly Hansen Homens casaco de camada intermédia com capuz redondo 2, preto, L",
+    "preco": "128,41 €",
+    "preco_anterior": "188,05 €",
+    "desconto": 32,
+    "categoria": "Moda",
+    "link": "https://www.amazon.es/dp/B0CKST2MGK?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0CKST2MGK_quadrada.jpg",
+    "publicado_em": "2026-11-19T20:24:21.764403+00:00"
+  },
+  {
     "asin": "B06XHCS75W",
     "titulo": "Helly Hansen Homens casaco Seven J, azul-marinho, L",
     "preco": "66,57 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0HHCNBXJK?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0HHCNBXJK_quadrada.jpg",
     "publicado_em": "2026-09-16T13:13:52.013121+00:00"
-  },
-  {
-    "asin": "B0FSXS3ZDZ",
-    "titulo": "XIAZIR Chave de impacto de bateria 1200 N·m 3 em 1 / parafuso de impacto/broca de impacto – Alto Par de 1/2\" com motor Brushless, 2 × bateria 4,0 Ah, flocos, brocas e pontas",
-    "preco": "88,21 €",
-    "preco_anterior": "119,99 €",
-    "desconto": 26,
-    "categoria": "Ferramentas",
-    "link": "https://www.amazon.es/dp/B0FSXS3ZDZ?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0FSXS3ZDZ_quadrada.jpg",
-    "publicado_em": "2026-09-16T13:11:22.914403+00:00"
   }
 ]
