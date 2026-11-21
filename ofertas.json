@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0CY3GR4FS",
+    "titulo": "Kérastase Elixir Ultime, Huile Originale Recargável, Óleo Capilar Anti-Frizz, Tratamento Termo-Protetor Sem Enxágue, 75 ml | Icónico aceite capilar protector Térmico. Ideal para Pelo largo. Aporta brillo, suavidad y control Anti-Frizz.",
+    "preco": "37,75 €",
+    "preco_anterior": "70,63 €",
+    "desconto": 47,
+    "categoria": "Beleza",
+    "link": "https://www.amazon.es/dp/B0CY3GR4FS?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0CY3GR4FS_quadrada.jpg",
+    "publicado_em": "2026-11-21T17:19:19.311149+00:00"
+  },
+  {
     "asin": "B0GZPDBRTM",
     "titulo": "Câmara exterior de 4 Blink com câmara de vídeo Blink, módulo de sincronização básico incluído",
     "preco": "24,99 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0FR4F7ZRM?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0FR4F7ZRM_quadrada.jpg",
     "publicado_em": "2026-09-17T13:16:12.561812+00:00"
-  },
-  {
-    "asin": "B08F7SQ34C",
-    "titulo": "Old Spice Deep Sea Gel de chuveiro e champanhe 3 em 1 para homem, 2 x 1 L",
-    "preco": "10,99 €",
-    "preco_anterior": "15,67 €",
-    "desconto": 30,
-    "categoria": "Beleza",
-    "link": "https://www.amazon.es/dp/B08F7SQ34C?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B08F7SQ34C_quadrada.jpg",
-    "publicado_em": "2026-09-17T13:13:45.404939+00:00"
   }
 ]
