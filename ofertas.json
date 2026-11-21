@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B07CCVMSKV",
+    "titulo": "Scottex Papel higiénico acolchoado - 63 rolos (7 embalagens de 9 rolos | 63 rolos (7 embalagens de 9 rolos) - papel higiénico de 3 camadas",
+    "preco": "22,35 €",
+    "preco_anterior": "30,77 €",
+    "desconto": 27,
+    "categoria": "Casa",
+    "link": "https://www.amazon.es/dp/B07CCVMSKV?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B07CCVMSKV_quadrada.jpg",
+    "publicado_em": "2026-11-21T08:19:31.535055+00:00"
+  },
+  {
     "asin": "B0CQ5L6YWP",
     "titulo": "ION8 Garrafa de água infantil, anti-fugas, 350 ml (12 oz), carros | Adequado para máquina de lavar louça, fácil abertura, fecho seguro, alça, tampa dobrável higiénica, fácil de limpar",
     "preco": "12,09 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0BMGTTXD6?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0BMGTTXD6_quadrada.jpg",
     "publicado_em": "2026-09-17T07:07:27.992269+00:00"
-  },
-  {
-    "asin": "B0BJBBLNPK",
-    "titulo": "Adidas Homem Train Essentials T-shirt de treino",
-    "preco": "12,99 €",
-    "preco_anterior": "20,00 €",
-    "desconto": 35,
-    "categoria": "Moda",
-    "link": "https://www.amazon.es/dp/B0BJBBLNPK?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0BJBBLNPK_quadrada.jpg",
-    "publicado_em": "2026-09-16T19:37:36.880160+00:00"
   }
 ]
