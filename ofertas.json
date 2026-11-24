@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0CHS6D4BD",
+    "titulo": "Conjunto de 6 pratos grandes de grés da Ibiza - pratos elegantes para comida, adequados para máquina de lavar louça e micro-ondas - conjunto de louça para 6 pessoas - Pure Living em cinzento escuro",
+    "preco": "20,28 €",
+    "preco_anterior": "60,95 €",
+    "desconto": 67,
+    "categoria": "Eletrodomésticos",
+    "link": "https://www.amazon.es/dp/B0CHS6D4BD?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0CHS6D4BD_quadrada.jpg",
+    "publicado_em": "2026-11-24T11:17:24.843267+00:00"
+  },
+  {
     "asin": "B0BVBWB2KZ",
     "titulo": "Neutrogena Retinol Boost creme anti-idade, sem perfume, 50 ml | Retinol puro e ácido hialurónico, combate sinais de envelhecimento, reduz rugas e manchas, suave com a pele, leve",
     "preco": "11,06 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B079GW7H9V?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B079GW7H9V_quadrada.jpg",
     "publicado_em": "2026-11-20T17:14:25.491093+00:00"
-  },
-  {
-    "asin": "B0CC9WG42V",
-    "titulo": "Netatmo Válvulas Termostáticas WiFi Inteligentes, Controlo Remoto, Poupança de Energia, Módulo Adicional para o Termóstato Inteligente e para o Pacote para Aquecimento Coletivo, Nav -AMZ",
-    "preco": "46,75 €",
-    "preco_anterior": "74,17 €",
-    "desconto": 37,
-    "categoria": "Ferramentas",
-    "link": "https://www.amazon.es/dp/B0CC9WG42V?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0CC9WG42V_quadrada.jpg",
-    "publicado_em": "2026-11-20T17:11:16.665551+00:00"
   }
 ]
