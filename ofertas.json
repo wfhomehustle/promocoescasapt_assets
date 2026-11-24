@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0F6D5BS17",
+    "titulo": "PlayStation 5-Ghost of Yotei - Edición Estándar",
+    "preco": "37,72 €",
+    "preco_anterior": "52,85 €",
+    "desconto": 29,
+    "categoria": "Videojogos",
+    "link": "https://www.amazon.es/dp/B0F6D5BS17?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0F6D5BS17_quadrada.jpg",
+    "publicado_em": "2026-11-24T11:32:32.205731+00:00"
+  },
+  {
     "asin": "B06VW5BH2K",
     "titulo": "Duracell CR2032 pilhas de botão de lítio 3 V (embalagem de 8) - Até 70% extra de duração - Tecnologia Baby Secure - Para Apple AirTag, chaves remotas, dispositivos domésticos, esportivos e médicos | Hasta un 70 % extra duración - Baby Secure - Para Apple AirTag, llaves remotas, dispositivos domésticos, deportivos y médicos",
     "preco": "9,75 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0C7R437VC?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0C7R437VC_quadrada.jpg",
     "publicado_em": "2026-11-20T17:23:56.301903+00:00"
-  },
-  {
-    "asin": "B0H95MMB99",
-    "titulo": "Ninja CRISPi Fritadeira de ar 4 em 1, de 3,8 l, 2,3 l: Fritar com ar, assar, manter quente, recuperar o crocante, compacto, 6 porções, 2 bandejas com tampa, 1700 W, verde sálvia FN201EUGN8",
-    "preco": "132,14 €",
-    "preco_anterior": "182,96 €",
-    "desconto": 28,
-    "categoria": "Eletrodomésticos",
-    "link": "https://www.amazon.es/dp/B0H95MMB99?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0H95MMB99_quadrada.jpg",
-    "publicado_em": "2026-11-20T17:22:06.046249+00:00"
   }
 ]
