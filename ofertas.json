@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B07QK13M2V",
+    "titulo": "Barras de proteína crua Warrior Flapjack (20 g) - 12 x 75 g, Snack saudável de aveia no pequeno-almoço que proporciona energia e crescimento muscular (chocolate branco com mirtilos)",
+    "preco": "12,27 €",
+    "preco_anterior": "17,33 €",
+    "desconto": 29,
+    "categoria": "Casa",
+    "link": "https://www.amazon.es/dp/B07QK13M2V?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B07QK13M2V_quadrada.jpg",
+    "publicado_em": "2026-11-28T14:25:48.197306+00:00"
+  },
+  {
     "asin": "B0G5YMZBYX",
     "titulo": "Philips Sonicare Série 4100 - Escova de dentes sónica com sensor de pressão, 4 configurações de escovagem, EasyStart, SmarTimer, autonomia de 21 dias, estojo, branco, HX4044/41, [novo]",
     "preco": "50,81 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0C816CSRW?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0C816CSRW_quadrada.jpg",
     "publicado_em": "2026-11-26T08:13:42.040472+00:00"
-  },
-  {
-    "asin": "B0H3ZB6GJP",
-    "titulo": "Momcozy 2-em 1 aspirador nasal bebé elétrico com 4 níveis ajustáveis | Aspirador nasal para bebé com pulverização e sucção de 65 kPa de grau hospitalar, silencioso e portátil, com luz e música",
-    "preco": "48,02 €",
-    "preco_anterior": "64,03 €",
-    "desconto": 25,
-    "categoria": "Bebé",
-    "link": "https://www.amazon.es/dp/B0H3ZB6GJP?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0H3ZB6GJP_quadrada.jpg",
-    "publicado_em": "2026-11-26T08:11:32.039554+00:00"
   }
 ]
