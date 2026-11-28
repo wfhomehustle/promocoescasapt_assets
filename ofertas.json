@@ -1,5 +1,16 @@
 [
   {
+    "asin": "B0G5YMZBYX",
+    "titulo": "Philips Sonicare Série 4100 - Escova de dentes sónica com sensor de pressão, 4 configurações de escovagem, EasyStart, SmarTimer, autonomia de 21 dias, estojo, branco, HX4044/41, [novo]",
+    "preco": "50,81 €",
+    "preco_anterior": "76,24 €",
+    "desconto": 33,
+    "categoria": "Beleza",
+    "link": "https://www.amazon.es/dp/B0G5YMZBYX?tag=poupamais-21",
+    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0G5YMZBYX_quadrada.jpg",
+    "publicado_em": "2026-11-28T14:21:43.031007+00:00"
+  },
+  {
     "asin": "B0FQV9KH2W",
     "titulo": "Stanley 1913 Garrafa térmica clássica 1,4 L - Hammertone Lake | Mantém frio ou calor 40 horas - Termo Cafe - Cantimplora de aço inoxidável - sem BPA - adequado para máquina de lavar louça",
     "preco": "49,82 €",
@@ -647,16 +658,5 @@
     "link": "https://www.amazon.es/dp/B0H3ZB6GJP?tag=poupamais-21",
     "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B0H3ZB6GJP_quadrada.jpg",
     "publicado_em": "2026-11-26T08:11:32.039554+00:00"
-  },
-  {
-    "asin": "B000LXUWN6",
-    "titulo": "Tetra AquaSafe para água de aquário natural e adequada para peixes, neutraliza as substâncias ocivas da água da torneira, garrafa de 500 ml | Neutraliza las Sustancias Nocivas del Agua del Grifo | Para todos los acuarios de agua dulce | funciona en segundos",
-    "preco": "8,60 €",
-    "preco_anterior": "12,53 €",
-    "desconto": 31,
-    "categoria": "Animais",
-    "link": "https://www.amazon.es/dp/B000LXUWN6?tag=poupamais-21",
-    "imagem": "https://wfhomehustle.github.io/promocoescasapt_assets/media/oferta_B000LXUWN6_quadrada.jpg",
-    "publicado_em": "2026-11-26T08:09:26.621494+00:00"
   }
 ]
